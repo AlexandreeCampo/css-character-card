@@ -4,7 +4,7 @@
 
 Projeto desenvolvido no desafio semanal da Rocketseat
 
-[🔗 Clique aqui para acessar](https://github.com/xandele/CSS-character-card.git)
+[🔗 Clique aqui para acessar](https://xandele.github.io/CSS-character-card/)
 
 ## ⚙️ Tecnologias
 
